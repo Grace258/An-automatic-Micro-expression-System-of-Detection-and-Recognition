@@ -10,4 +10,5 @@ testing_micro.py: test the model produced by detect_micro_model.py
 testing_expression.py: test the model produced by detect_expression_model.py
 
 We use machine learning to train the CASMEII database, producing the model with accuracy of 77%.
+We use SMIC database to test the model we've trained before.
 This number is higher than human identification by naked eyes which is approximately 45%.
